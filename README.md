@@ -1,10 +1,10 @@
 # Laravel 5 Event Website
 
-A Laravel 5.4 Event Website with Google Maps to show the location of the event in a map and [https://fullcalendar.io/](FullCalendar) for showing the events in a calendar view.
+A Laravel 5.4 Event Website with Google Maps to show the location of the event in a map and [FullCalendar](https://fullcalendar.io/) for showing the events in a calendar view.
 
 FullCalendar is a JavaScript event calendar, customizable and open source. 
 
-Before you start you need a [https://developers.google.com/maps/](Google Maps Api), add the API Key in your .env file:
+Before you start you need a [Google Maps Api](https://developers.google.com/maps/), add the API Key in your .env file:
 GOOGLE_MAP_API_KEY=
 
 The Website has a admin page (url/admin) to create or edit the events. 
