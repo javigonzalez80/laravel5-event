@@ -8,7 +8,8 @@ Before you start you need a [Google Maps Api](https://developers.google.com/maps
 
 GOOGLE_MAP_API_KEY=
 
-The Website has a admin page (url/admin) to create or edit the events. 
+The Website has a admin page (url/admin) to create or edit the events.
+The map of Google Maps needs a width and a height.
 
 Helpful code I used for FullCalendar and Google Maps: 
 * https://leonelomar.wordpress.com/2016/01/27/integrar-plugin-fullcalendar-de-jquery-a-laravel-5-2/
